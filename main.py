@@ -15,7 +15,7 @@ YELLOW = (255, 255, 0)
 BORDER = pygame.Rect(WIDTH//2 - 5, 0, 10, HEIGHT)
 
 BULLET_HIT_SOUND = pygame.mixer.Sound('Assets/gunshot.wav')
-BULLET_FIRE_SOUND = pygame.mixer.Sound('Assets/lasersfx.wav')
+BULLET_FIRE_SOUND = pygame.mixer.Sound('Assets/sf_laser_13.wav')
 
 HEALTH_FONT = pygame.font.SysFont('comicsans', 40)
 WINNER_FONT = pygame.font.SysFont('comicsans', 100)

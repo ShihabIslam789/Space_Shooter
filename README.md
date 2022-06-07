@@ -1,4 +1,8 @@
 # Space-Shooter
+Library requirements: Pygame <br>
+
+run in terminal 'pip install Pygame'
+
 
 # Premise
 This is a game created using Python and the Pygame library to make a simple multiplayer game. <br>

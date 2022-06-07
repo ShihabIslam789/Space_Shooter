@@ -10,3 +10,7 @@ yellow player momvement : up(w), left(a), right(d), down(s)  <br>
 red player movement: up(up key), left(left key), right (right key), down (down key) <br>
 yellow shoot: left ctrl <br>
 red shoot: right ctrl   <br>
+
+# picture
+
+![image](https://user-images.githubusercontent.com/56773545/172276442-56285306-f65b-4a7e-959e-41f7d03b0440.png)
